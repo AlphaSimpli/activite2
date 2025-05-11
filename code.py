@@ -3,6 +3,5 @@ def world_of_functions():
     print("Fatima dit : Python c’est cool !")
     print("Ali dit : Ne jamais abandonner.")
     # Chaque participant peut ajouter sa ligne ici
-    print("TonNom dit : Ton message ici")
-
+    print("Aïcha dit : La persévérance mène au succès !")
 world_of_functions()
